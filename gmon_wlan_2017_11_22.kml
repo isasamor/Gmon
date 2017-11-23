@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id='Open'>
+  <IconStyle>
+  <color>ff00ff00</color>
+	<scale>0.5</scale>
+	<Icon>
+	  <href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+	</Icon>
+  </IconStyle>
+</Style>
+<Style id='Wep'>
+  <IconStyle>
+  <color>ff00ffff</color>
+	<scale>0.5</scale>
+	<Icon>
+	  <href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+	</Icon>
+  </IconStyle>
+</Style>
+<Style id='WpaPsk'>
+  <IconStyle>
+  <color>ff0080ff</color>
+	<scale>0.5</scale>
+	<Icon>
+	  <href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+	</Icon>
+  </IconStyle>
+</Style>
+<Style id='Wpa'>
+  <IconStyle>
+  <color>ff0080ff</color>
+	<scale>0.5</scale>
+	<Icon>
+	  <href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+	</Icon>
+  </IconStyle>
+</Style>
+<Style id='WPA2'>
+  <IconStyle>
+  <color>ff0000ff</color>
+	<scale>0.5</scale>
+	<Icon>
+	  <href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+	</Icon>
+  </IconStyle>
+</Style>
+<Style id='?'>
+  <IconStyle>
+  <color>ffffffff</color>
+	<scale>0.5</scale>
+	<Icon>
+	  <href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+	</Icon>
+  </IconStyle>
+</Style>
+  <Placemark>
+	<description>myHotspot
+00:1B:54:EC:5E:C0</description>
+	<styleUrl>#WpaPsk</styleUrl>
+	<visibility>0</visibility>
+	 <Point>
+	  <extrude>1</extrude>
+	  <altitudeMode>relativeToGround</altitudeMode>
+	  <coordinates>34.97381,32.11752</coordinates>
+	 </Point>
+  </Placemark>
+  <Placemark>
+	<description>DIRECTDHDESKTOP4DE01QEmsqc
+02:15:00:64:59:A0</description>
+	<styleUrl>#WPA2</styleUrl>
+	<visibility>0</visibility>
+	 <Point>
+	  <extrude>1</extrude>
+	  <altitudeMode>relativeToGround</altitudeMode>
+	  <coordinates>34.97381,32.11752</coordinates>
+	 </Point>
+  </Placemark>
+  <Placemark>
+	<description>sondos
+14:AE:DB:B3:AF:25</description>
+	<styleUrl>#WPA2</styleUrl>
+	<visibility>0</visibility>
+	 <Point>
+	  <extrude>1</extrude>
+	  <altitudeMode>relativeToGround</altitudeMode>
+	  <coordinates>34.97381,32.11752</coordinates>
+	 </Point>
+  </Placemark>
+  <Placemark>
+	<description>omree
+14:AE:DB:C8:E6:C5</description>
+	<styleUrl>#WPA2</styleUrl>
+	<visibility>0</visibility>
+	 <Point>
+	  <extrude>1</extrude>
+	  <altitudeMode>relativeToGround</altitudeMode>
+	  <coordinates>34.97381,32.11752</coordinates>
+	 </Point>
+  </Placemark>
+  <Placemark>
+	<description>Partner4G921E
+44:6E:E5:67:92:1E</description>
+	<styleUrl>#WPA2</styleUrl>
+	<visibility>0</visibility>
+	 <Point>
+	  <extrude>1</extrude>
+	  <altitudeMode>relativeToGround</altitudeMode>
+	  <coordinates>34.97381,32.11752</coordinates>
+	 </Point>
+  </Placemark>
+  <Placemark>
+	<description>BezeqFree
+52:12:F5:FA:53:B7</description>
+	<styleUrl>#WPA2</styleUrl>
+	<visibility>0</visibility>
+	 <Point>
+	  <extrude>1</extrude>
+	  <altitudeMode>relativeToGround</altitudeMode>
+	  <coordinates>34.97381,32.11752</coordinates>
+	 </Point>
+  </Placemark>
+  <Placemark>
+	<description>BezeqFree
+5A:D6:43:26:4B:97</description>
+	<styleUrl>#Open</styleUrl>
+	<visibility>0</visibility>
+	 <Point>
+	  <extrude>1</extrude>
+	  <altitudeMode>relativeToGround</altitudeMode>
+	  <coordinates>34.97381,32.11752</coordinates>
+	 </Point>
+  </Placemark>
+  <Placemark>
+	<description>AboOmry
+70:4F:57:AB:E6:F4</description>
+	<styleUrl>#WpaPsk</styleUrl>
+	<visibility>0</visibility>
+	 <Point>
+	  <extrude>1</extrude>
+	  <altitudeMode>relativeToGround</altitudeMode>
+	  <coordinates>34.97381,32.11752</coordinates>
+	 </Point>
+  </Placemark>
+  <Placemark>
+	<description>203247515
+9C:D6:43:26:4B:96</description>
+	<styleUrl>#WPA2</styleUrl>
+	<visibility>0</visibility>
+	 <Point>
+	  <extrude>1</extrude>
+	  <altitudeMode>relativeToGround</altitudeMode>
+	  <coordinates>34.97381,32.11752</coordinates>
+	 </Point>
+  </Placemark>
+  <Placemark>
+	<description>Mdlol
+C4:12:F5:FA:53:B6</description>
+	<styleUrl>#WPA2</styleUrl>
+	<visibility>0</visibility>
+	 <Point>
+	  <extrude>1</extrude>
+	  <altitudeMode>relativeToGround</altitudeMode>
+	  <coordinates>34.97381,32.11752</coordinates>
+	 </Point>
+  </Placemark>
+  <Placemark>
+	<description>MadharIsa
+F4:F2:6D:89:2E:04</description>
+	<styleUrl>#WPA2</styleUrl>
+	<visibility>0</visibility>
+	 <Point>
+	  <extrude>1</extrude>
+	  <altitudeMode>relativeToGround</altitudeMode>
+	  <coordinates>34.97381,32.11752</coordinates>
+	 </Point>
+  </Placemark>
+</Document>
+</kml>
